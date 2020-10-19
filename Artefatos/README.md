@@ -9,6 +9,6 @@ Aplicativo que conecte os alunos aos motoristas de vans. Por este, será possív
 ## Alunos integrantes da equipe
 * Wilcson Araújo
 * Luiz Antunes
-* Werik
+* Werik Gonçalves
 * Henrique Freire dos Santos
 
