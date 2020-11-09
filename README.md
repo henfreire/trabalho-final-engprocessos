@@ -1,5 +1,4 @@
-## **Trabalho Interdisciplinar de Software V**
-
+## **Trabalho Final de Engenharia de Processos
 ![logo-preta-menor](https://user-images.githubusercontent.com/29661700/91116999-fb456000-e663-11ea-89b6-977b133fc5ba.png)
 
 # vanbora
