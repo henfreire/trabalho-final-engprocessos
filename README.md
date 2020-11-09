@@ -7,7 +7,7 @@
 Aplicativo que conecte os alunos aos motoristas de vans. Por este, será possível realizar o cadastro de motorista de van e de aluno, em que os motoristas conseguem alocar os alunos às suas vans. Ademais, lista de presença e aviso de atraso de participação da rota também são funcionalidades presentes, bem como um chat para que as partes envolvidas possam manter contato, caso necessário.
 
 ## Alunos integrantes da equipe
-* Wilcson Araújo
+
 * Luiz Antunes
 * Werik Gonçalves
 * Henrique Freire dos Santos
