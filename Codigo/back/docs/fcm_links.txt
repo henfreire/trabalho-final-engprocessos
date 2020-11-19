@@ -1,0 +1,17 @@
+- Como usar o FCM: https://www.youtube.com/watch?v=Fj-SBxuDUD4&list=PLaXdjrOMd1wqqlj8SPC39TJW3Wr3gblTP&index=3
+- Como enviar mensagens: https://firebase.google.com/docs/cloud-messaging/send-message
+- Mensagem para um único dispositivo: https://firebase.google.com/docs/cloud-messaging/send-message#send_to_individual_devices
+- React Native + Expo + FCM: https://stackoverflow.com/questions/63585362/listen-to-fcm-push-notification-delivery-with-expo-react-native-android
+- Ionic 4 + FCM https://medium.com/@abdulahad.momin07/push-notification-on-ionic-4-using-firebase-fcm-with-postman-request-15c0b33d7bbb
+- Como usar o FCM na mão: https://medium.com/android-school/test-fcm-notification-with-postman-f91ba08aacc3
+- Erro MismatchId: https://stackoverflow.com/questions/37863106/fcm-getting-mismatchsenderid
+- Admin SDK: https://console.firebase.google.com/u/1/project/vanbora-4a41d/settings/serviceaccounts/adminsdk
+- Configurando Admin SDK: https://firebase.google.com/docs/admin/setup?authuser=1
+- Axios for NodeJS: https://attacomsian.com/blog/http-requests-axios#:~:text=%20How%20to%20Make%20HTTP%20Requests%20using%20Axios,Request.%20%206%20Request%20Headers.%20%20More%20
+- FCM invalid Registration ID: https://stackoverflow.com/questions/44735311/fcm-invalidregistration
+- FCM + React Native: https://www.youtube.com/watch?v=R2D6J10fhA4&t=1s
+- Expo Notification API: https://docs.expo.io/versions/latest/sdk/notifications/
+- Expo sending Notifications: https://docs.expo.io/push-notifications/sending-notifications/
+- Expo Service Server Side (NodeJS): https://github.com/expo/expo-server-sdk-node
+- Our Postman: https://vanbora.postman.co/collections/3352658-e25440bc-983c-448a-b202-2ac10f87f519?version=latest&workspace=4cc38538-f98e-47b9-a0be-c0683aea8b22
+- Sending Messages: https://firebase.google.com/docs/cloud-messaging/send-message
