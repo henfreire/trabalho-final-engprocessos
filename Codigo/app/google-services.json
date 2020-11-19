@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "541187351979",
+    "firebase_url": "https://vanbora-4a41d.firebaseio.com",
+    "project_id": "vanbora-4a41d",
+    "storage_bucket": "vanbora-4a41d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541187351979:android:5adb6de59906af80b85eee",
+        "android_client_info": {
+          "package_name": "com.henriquefreire.vanbora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541187351979-7unah7uepf7seln8t8kkgt5ek52gp255.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5x2YNEfl6qtjetnI8Ee-GbCaViaXi7pA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541187351979-7unah7uepf7seln8t8kkgt5ek52gp255.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

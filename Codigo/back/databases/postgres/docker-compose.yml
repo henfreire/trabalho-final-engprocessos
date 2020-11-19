@@ -1,0 +1,41 @@
+version: '3'
+
+services:
+    teste-postgres:
+        image: postgres
+        restart: unless-stopped
+        ports:
+            - '15432:5432'
+        volumes:
+            - pgdata:/var/lib/postgresql/data
+            - pgconf:/etc/postgresql
+            - pglog:/var/log/postgresql
+        environment:
+            POSTGRES_DB: mydb
+            POSTGRES_USER: admin
+            POSTGRES_PASSWORD: admin
+        networks:
+            - postgres-compose-network
+    teste-pgadmin:
+        image: dpage/pgadmin4
+        environment:
+            PGADMIN_DEFAULT_EMAIL: 'email@test.com'
+            PGADMIN_DEFAULT_PASSWORD: 'naosouadmin@@#98'
+        ports:
+            - '16543:80'
+        depends_on:
+            - teste-postgres
+        networks:
+            - postgres-compose-network
+
+volumes:
+    pgdata:
+        driver: local
+    pgconf:
+        driver: local
+    pglog:
+        driver: local
+
+networks:
+    postgres-compose-network:
+        driver: bridge
